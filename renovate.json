@@ -1,3 +1,19 @@
 {
   "forkProcessing": "enabled",
+  
+  "schedule": [ "every weekday" ],
+  
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["^ArmoniK"],
+      "includeForks": true,
+      "groupName": "Group Armonik nuget"
+    },
+    {
+    "macthPackagePatterns": [
+      "*"
+    ],
+    "groupeName": "other dependencies !!!!"
+    }
+  ]
 }

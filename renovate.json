@@ -8,7 +8,9 @@
       "matchPackagePatterns": ["^ArmoniK"],
       "includeForks": true,
       "groupName": "Group Armonik nuget"
-    },
+    }
+  ],
+  "packageRules":[
     {
     "macthPackagePatterns": [
       "*"

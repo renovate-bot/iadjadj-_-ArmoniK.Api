@@ -9,13 +9,5 @@
       "includeForks": true,
       "groupName": "Group Armonik nuget"
     }
-  ],
-  "packageRules":[
-    {
-    "macthPackagePatterns": [
-      "*"
-    ],
-    "groupeName": "other dependencies !!!!"
-    }
   ]
 }

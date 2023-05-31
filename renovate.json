@@ -2,6 +2,7 @@
   "forkProcessing": "enabled",
   
   "schedule": [ "every weekday" ],
+  "assignees": ["iadjadj"],
   
   "packageRules": [
     {
